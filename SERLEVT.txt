@@ -1,0 +1,39 @@
+Elabore un programa que tenga un formulario(documento) html con dos IMPUT (A,B)y un boton, cuando se oprima el boton (sumar)llaman un serlevt que es un programa
+en el servidor java (server)
+
+el server debe capturar lo numeros ingresados en el html y devolver la suma.
+
+
+
+EN JAVA:
+
+Nuevo proyecto - jav web - web aplication 
+
+instalar glassfish 
+
+Escoger herramienta para escritura ()defecto en este caso.
+
+Abrir carpeta de la aplicacion - escoger la carpeta web pages y mirar index.html
+
+action = acceder al servlet
+
+method = para enviar vrios datos con post con pocos con get (por dento se encapsulan los datos)
+
+ervlet clicl derecho en aplicacion buscar servlet y crear.
+
+puede o no usarse el primer metodo, si utilizo get o post para evviar se utiliza el metodo correspondiente al cual envio.
+
+
+
+
+Elabore un programa en un servlet que envie una matriz 2x2 y que devuelva el determinante en letra courier fondo amarillo letra color rojo 
+
+utilizando las etiquetas de :
+
+<table>
+<input>
+<img>
+<form>
+<H1>.....<H6>
+CSS
+
